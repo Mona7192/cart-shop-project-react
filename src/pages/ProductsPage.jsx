@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import { useSearchParams } from "react-router-dom";
 
 
-import Card from "../components/Cardard";
+import Card from "../components/Card";
 import Loader from "../components/Loader";
 import SearchBox from "../components/SearchBox";
 import SideBar from "../components/SideBar";
