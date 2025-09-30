@@ -5,7 +5,7 @@ import CheckoutPage from "./pages/CheckoutPage";
 import PageNotFound from "./pages/404";
 import ProductsProvider from "./context/ProductContext";
 import CartProvider from "./context/Cartcontext";
-import Layout from "./layout/layout";
+import Layout from "./layout/Layout";
 
 
 
